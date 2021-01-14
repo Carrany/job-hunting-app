@@ -1,0 +1,67 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Manuel Iglesias",
+      "role": "Writer"
+    },
+    {
+      "id": 2,
+      "name": "Melanie Sato",
+      "role": "Project Manager"
+    },
+    {
+      "id": 3,
+      "name": "Karmen Barić",
+      "role": "Marketer"
+    }
+  ],
+  "applications": [
+    {
+      "id": 1,
+      "candidate_id": 1,
+      "age": 25,
+      "years_of_experience": 5,
+      "job_title": "Writer",
+      "email": "manuel@gmail.com",
+      "phone_number": "0700002999",
+      "current_salary": 1000,
+      "expected_salary": 2000,
+      "available_start_date": "22-03-2021",
+      "cv": "cv1.pdf",
+      "comments": null,
+      "bio": "Manuel Iglesias draws from his life story when writing about the experiences of migrant workers. His first series of poems, My Father's Hands, appeared in The New Yorker and describes how his family crossed the Texas border to give Manuel and his brothers a better life. After receiving his Master's in Fine Arts from Columbia University, Manuel wrote three nonfiction novels about his experiences, including Under the Streaming Sun, which earned the National Prize for Arts and Sciences in 2008. Manuel is currently working on a collection of fictional short stories to be published in early 2021."
+    },
+    {
+      "id": 2,
+      "candidate_id": 2,
+      "age": 39,
+      "years_of_experience": 10,
+      "job_title": "Project Manager",
+      "email": "Melanie@gmail.com",
+      "phone_number": "07099359",
+      "current_salary": 3000,
+      "expected_salary": 5000,
+      "available_start_date": "30-02-2021",
+      "cv": "cv2.pdf",
+      "comments": null,
+      "bio": "Melanie Sato opens the line of communication between clients, customers, and businesses to get projects done. With over 20 years in both public and private sectors, Melanie has experience in management consultation, team building, professional development, strategic implementation, and company collaboration. Melanie has managed projects at TechPoint International, Cyberry, and Induster, where she was a finalist for the PMI® Project of the Year. Melanie holds an MBA from Dartmouth University and a current PMP® certification."
+    },
+    {
+      "id": 3,
+      "candidate_id": 3,
+      "name": "",
+      "age": 50,
+      "years_of_experience": 20,
+      "job_title": "Marketer",
+      "email": "Karmen@gmail.com",
+      "phone_number": "0788999222",
+      "current_salary": 2000,
+      "expected_salary": 3500,
+      "available_start_date": "20-01-2021",
+      "cv": null,
+      "comments": null,
+      "bio": "Karmen Barić connects online brands to their target audiences for the perfect marketing experience. At the University of California, Davis, Karmen learned the importance of applying classic marketing techniques to modern brand strategies from experts in the field, including her Communications professor, Dr. Martin Mitchell. Recently she finished a research paper on customer conversion and participated in a group project on improving SEO. Karmen is currently finishing her Bachelor of Arts in Communications and hopes to intern in an online marketing department in the near future"
+    }
+  ]
+}
