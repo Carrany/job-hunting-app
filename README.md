@@ -25,7 +25,7 @@ Setup
      ```bash
      npm start
      ```
-     to start json server
+     to start json server, cd to server
      ```bash
      json-server --watch db.json
      ```
@@ -33,8 +33,9 @@ Setup
     Client runs on **http://localhost:7000** 
     Server runs on **http://localhost:3000** 
 
-5. Additional Info
-   The technologies used were geared towards solving a application view problem per applicant. Many improvements could be done to the project with more time, e.g. authentication and an application process could easily be implemented
+5. Additional Info:
+
+   The technologies used were geared towards displaying job applications per candidate. Many improvements could be done to the project with more time, e.g. authentication and an application process by a candidate could easily be implemented
 
 
 ## Built With

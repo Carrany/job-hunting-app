@@ -21,7 +21,9 @@ export const PDFView = ({ show = false, cv = null }) => {
                 <Document file={
                     cv === "cv1.pdf" ? cv1
                         : cv === "cv2.pdf" ? cv2
-                            : undefined} >
+                            : undefined}
+                    onContextMenu={(e) => e.preventDefault()}
+                >
                     <Page pageNumber={1} />
                 </Document>
             </Card>

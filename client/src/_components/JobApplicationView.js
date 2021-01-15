@@ -44,7 +44,9 @@ export const JobApplicationView = ({ applicant = null }) => {
 
 
         } catch (error) {
-            setSaving(false)
+           
+            setTimeout(() => { setSaving(false); notification.warning({ message: "Comment save failed" }) }, 500)
+
         }
     }
 
